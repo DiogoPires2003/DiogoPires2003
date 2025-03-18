@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Software Engineering at Universitat de Lleida<br>🌱 I’m currently learning WEB page developement<br>
+🔭 I’m currently studying Software Engineering at Universitat de Lleida<br>🌱 I’m currently learning web development<br>
 
 
 
