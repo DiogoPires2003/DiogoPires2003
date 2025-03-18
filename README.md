@@ -16,6 +16,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DiogoPires2003&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoPires2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
 ### ✍️ Random Dev Quote
 <div align="center">
 
