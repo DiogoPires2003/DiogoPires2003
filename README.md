@@ -1,9 +1,6 @@
 ![MasterHead](https://github.com/DiogoPires2003/DiogoPires2003/blob/main/header.png)](https://github.com/DiogoPires2003/)
 # 💫 About Me:
-🔭 I’m currently studying Software Engineering at Universitat de Lleida<br>🌱 I’m currently learning web development<br>
-
-🔭 I’m currently studying Software Engineering at Universitat de Lleida
-
+🔭 I’m currently studying Software Engineering at Universitat de Lleida<
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-filipe-alves-pires-424964245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dfalvesp@gmail.com) 
