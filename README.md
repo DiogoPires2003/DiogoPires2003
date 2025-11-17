@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/DiogoPires2003/DiogoPires2003/blob/main/header.png)](https://github.com/DiogoPires2003/)
 # 💫 About Me:
-🔭 I’m currently studying Software Engineering at Universitat de Lleida<br>🌱 I’m currently learning web development<br>
-
+🔭 I’m currently studying Software Engineering at Universitat de Lleida
 
 
 ## 🌐 Socials:
